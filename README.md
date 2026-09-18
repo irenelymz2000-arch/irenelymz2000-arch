@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I’m Irene Lyimo
 
-<!--
-**irenelymz2000-arch/irenelymz2000-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Public Health Student | Emerging Researcher | Health Equity Advocate
 
-Here are some ideas to get you started:
+I am a public health student at the University of St. Thomas with interests in health equity, mental health, global health, program planning and evaluation, and mixed-methods research. I enjoy using research to understand barriers to care and communicate findings in practical, accessible ways.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Building experience in public health research, data analysis, and program evaluation
+- Preparing to contribute to research on integrating HPV vaccination into ART clinics for girls living with HIV in Zambia
+- Developing a portfolio of academic and community-focused public health projects
+
+## Featured Research
+
+### Mental Health Service Utilization Among Undergraduate Students
+
+A mixed-methods study examining undergraduate students’ perceived need for mental health support, their awareness and use of campus services, and barriers to seeking care.
+
+**Methods and skills:** Qualtrics surveys, IBM SPSS, semi-structured interviews, framework analysis, joint displays, data visualization, and scientific poster development.
+
+[Explore my public health portfolio](https://github.com/irenelymz2000-arch/Public-health-portfolio)
+
+## Additional Interests
+
+- Healthcare workforce shortages
+- Mental health service accessibility
+- Global health and health equity
+- Community-centered health programs
+- Culturally responsive public health practice
+
+## Research Skills
+
+- Mixed-methods research
+- Survey design and data collection
+- Quantitative and qualitative analysis
+- Literature reviews
+- Research interviewing
+- Public health communication
+- Scientific posters and presentations
+
+## Research Ethics
+
+Materials shared in this portfolio are limited to appropriate, de-identified, and non-confidential work.
