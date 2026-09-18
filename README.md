@@ -2,6 +2,8 @@
 
 ### Public Health Student | Emerging Researcher | Health Equity Advocate
 
+**Expected graduation:** May 2027
+
 I am a public health student at the University of St. Thomas with interests in health equity, mental health, global health, program planning and evaluation, and mixed-methods research. I enjoy using research to understand barriers to care and communicate findings in practical, accessible ways.
 
 ## Current Focus
@@ -37,6 +39,15 @@ A mixed-methods study examining undergraduate students’ perceived need for men
 - Research interviewing
 - Public health communication
 - Scientific posters and presentations
+
+## Career Direction
+
+I am interested in public health research, program evaluation, epidemiology, and community health. My long-term goal is to pursue a master’s degree in nursing and combine population-level research with patient-centered care.
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/irene-lyimo-909081354)
+- [Email: irenelymz2000@gmail.com](mailto:irenelymz2000@gmail.com)
 
 ## Research Ethics
 
